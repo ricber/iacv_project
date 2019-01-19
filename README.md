@@ -19,9 +19,12 @@ For a complete description of the project and usage details please refer to the 
 <p>Ellipses detected</p>
 <a href="url"><img src="doc/imgs/ellipses.jpg"  align="center" width="700"></a>
 
-Harris keypoints
+<p>Harris keypoints</p>
 <img src="doc/imgs/harris_keypoints.jpg"  align="center" width="700">
-Horizontal vanishing point
+
+<p>Horizontal vanishing point</p>
 <img src="doc/imgs/horiz_vp.jpg"  align="center" width="700">
-3D position of symmetric points
+
+
+<p>3D position of symmetric points</p>
 <img src="doc/imgs/3D_points(1).jpg"  align="center" width="700">
