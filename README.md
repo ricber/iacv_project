@@ -17,7 +17,8 @@ For a complete description of the project and usage details please refer to the 
 ## Screenshots
 
 Ellipses detected
-<img src="doc/imgs/ellipses.jpg"  align="center" width="700">
+<a href="url"><img src="doc/imgs/ellipses.jpg"  align="center" width="700"></a>
+
 Harris keypoints
 <img src="doc/imgs/harris_keypoints.jpg"  align="center" width="700">
 Horizontal vanishing point
