@@ -16,7 +16,11 @@ For a complete description of the project and usage details please refer to the 
 
 ## Screenshots
 
+Ellipses detected
 <img src="doc/imgs/ellipses.jpg"  align="center" width="700">
+Harris keypoints
 <img src="doc/imgs/harris_keypoints.jpg"  align="center" width="700">
+Horizontal vanishing point
 <img src="doc/imgs/horiz_vp.jpg"  align="center" width="700">
+3D position of symmetric points
 <img src="doc/imgs/3D_points(1).jpg"  align="center" width="700">
