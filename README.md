@@ -16,7 +16,7 @@ For a complete description of the project and usage details please refer to the 
 
 ## Screenshots
 
-<img src="doc/imgs/ellipses.jpg" width="500">
-<img src="doc/imgs/harris_keypoints.jpg" width="500">
-<img src="doc/imgs/horiz_vp.jpg" width="500">
-<img src="doc/imgs/3D_points(1).jpg" width="500">
+<img src="doc/imgs/ellipses.jpg"  align="center" width="700">
+<img src="doc/imgs/harris_keypoints.jpg"  align="center" width="700">
+<img src="doc/imgs/horiz_vp.jpg"  align="center" width="700">
+<img src="doc/imgs/3D_points(1).jpg"  align="center" width="700">
