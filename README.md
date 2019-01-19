@@ -16,7 +16,9 @@ For a complete description of the project and usage details please refer to the 
 
 ## Screenshots
 
+<img src="doc/imgs/ellipses.jpg" width="48">
 ![Alt text](doc/imgs/ellipses.jpg?raw=true "Ellipses detected")
+
 ![Alt text](doc/imgs/harris_keypoints.jpg?raw=true "Harris keypoints")
 ![Alt text](doc/imgs/horiz_vp.jpg?raw=true "Horizontal vanishing point")
 ![Alt text](doc/imgs/3D_points(1).jpg?raw=true "3D position of symmetric features")
