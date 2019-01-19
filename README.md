@@ -3,7 +3,7 @@
 ## Description
 
 This is the Matlab code of the Image Analysis and Computer Vision course project.
-The aim of the project was to experiment the notions acquired during theoretical lessons. 
+The aim of the project was to practice the notions acquired during theoretical lessons. 
 
 In particular, I accomplished the following tasks on a single image of a car: 
 - Image extraction of keypoints features and ellipses detection (wheels of the car)
