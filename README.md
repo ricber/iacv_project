@@ -16,7 +16,7 @@ For a complete description of the project and usage details please refer to the 
 
 ## Screenshots
 
-Ellipses detected
+<title>Ellipses detected</title>
 <a href="url"><img src="doc/imgs/ellipses.jpg"  align="center" width="700"></a>
 
 Harris keypoints
