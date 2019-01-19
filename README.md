@@ -12,4 +12,4 @@ In particular, I accomplished the following tasks on a single image of a car:
 - Reconstruction of the 3D position of symmetric pairs of features (like the vertex of the license plate) with respect to a reference frame fixed on the symmetry plane of the car
 - Localization of the camera with respect to the previous reference frame
 
-For a complete description of the project and usage details please refer to the [report](documentation/report.pdf).
+For a complete description of the project and usage details please refer to the [report](doc/documentation.pdf).
